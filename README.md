@@ -1,2 +1,2 @@
 # mrdzer0.github.io
-#Dzer0 Landing Page
+Dzer0's landing page.
